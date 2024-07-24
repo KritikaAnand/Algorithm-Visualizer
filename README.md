@@ -22,3 +22,12 @@ Welcome to the Sorting Algorithm Visualizer! 🚀 This tool provides an interact
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/sorting-visualizer.git
+![Screenshot 2024-07-24 134008](https://github.com/user-attachments/assets/3d8a333d-672f-48d0-84e2-d17bcc732f13)
+
+![Screenshot 2024-07-24 134039](https://github.com/user-attachments/assets/d494c145-433f-4220-91a1-6824efbc79fe)
+
+![Screenshot 2024-07-24 134111](https://github.com/user-attachments/assets/52768f3a-d6dd-4e81-bd71-e46960ed48dd)
+
+
+![Screenshot 2024-07-24 134159](https://github.com/user-attachments/assets/7c8575ab-7b6d-4cea-9443-9bb965729f94)
+
